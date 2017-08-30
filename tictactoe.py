@@ -56,7 +56,7 @@ if __name__ == '__main__':
 	while True:
 		
 		if count >= 9:
-			print("Dobara khail lai")
+			print("Please try again.")
 
 		printBoard(gameBoard)
 		print("Select a choice from the board.")
@@ -74,13 +74,13 @@ if __name__ == '__main__':
 
 		if WinnerO(gameBoard):
 			printBoard(gameBoard)
-			print("Abay Computer ko hara diya tu ne tw")
+			print("Human Player Wins The Game.")
 			break
 		
 		computerMove(gameBoard)
 		if winnerX(gameBoard):
 			printBoard(gameBoard)
-			print("Abay Computer se haar gaya tu")
+			print("Computer Player Wins The Game")
 			break
 
 		count += 2
