@@ -9,6 +9,10 @@ sentence = sentence.lower()
 words = list(sentence)
 
 count_words = {}
+listCount = sentence.split(" ")
+print()
+print("Total Words: " + str(len(listCount)))
+print()
 
 for word in words:
 	characters = list(word)
