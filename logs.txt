@@ -1,0 +1,37 @@
+2017-09-10 11:36:40,307 - DEBUG - Start of program
+2017-09-10 11:36:40,308 - DEBUG - Start of factorial function N is 5
+2017-09-10 11:36:40,309 - DEBUG - the value of i 1 and value of total is 1
+2017-09-10 11:36:40,309 - DEBUG - the value of i 2 and value of total is 2
+2017-09-10 11:36:40,310 - DEBUG - the value of i 3 and value of total is 6
+2017-09-10 11:36:40,310 - DEBUG - the value of i 4 and value of total is 24
+2017-09-10 11:36:40,310 - DEBUG - the value of i 5 and value of total is 120
+2017-09-10 11:36:40,311 - DEBUG - Return value is 120
+2017-09-10 11:36:40,332 - DEBUG - End of program
+2017-09-10 11:40:32,181 - DEBUG - Start of program
+2017-09-10 11:40:32,182 - DEBUG - Start of factorial function N is 5
+2017-09-10 11:40:32,183 - DEBUG - the value of i 1 and value of total is 1
+2017-09-10 11:40:32,183 - DEBUG - the value of i 2 and value of total is 2
+2017-09-10 11:40:32,184 - DEBUG - the value of i 3 and value of total is 6
+2017-09-10 11:40:32,184 - DEBUG - the value of i 4 and value of total is 24
+2017-09-10 11:40:32,184 - DEBUG - the value of i 5 and value of total is 120
+2017-09-10 11:40:32,185 - DEBUG - Return value is 120
+2017-09-10 11:40:32,219 - DEBUG - End of program
+2017-09-10 11:40:57,396 - DEBUG - Start of program
+2017-09-10 11:40:57,396 - DEBUG - Start of factorial function N is 15
+2017-09-10 11:40:57,397 - DEBUG - the value of i 1 and value of total is 1
+2017-09-10 11:40:57,397 - DEBUG - the value of i 2 and value of total is 2
+2017-09-10 11:40:57,397 - DEBUG - the value of i 3 and value of total is 6
+2017-09-10 11:40:57,398 - DEBUG - the value of i 4 and value of total is 24
+2017-09-10 11:40:57,399 - DEBUG - the value of i 5 and value of total is 120
+2017-09-10 11:40:57,399 - DEBUG - the value of i 6 and value of total is 720
+2017-09-10 11:40:57,399 - DEBUG - the value of i 7 and value of total is 5040
+2017-09-10 11:40:57,400 - DEBUG - the value of i 8 and value of total is 40320
+2017-09-10 11:40:57,400 - DEBUG - the value of i 9 and value of total is 362880
+2017-09-10 11:40:57,400 - DEBUG - the value of i 10 and value of total is 3628800
+2017-09-10 11:40:57,401 - DEBUG - the value of i 11 and value of total is 39916800
+2017-09-10 11:40:57,401 - DEBUG - the value of i 12 and value of total is 479001600
+2017-09-10 11:40:57,401 - DEBUG - the value of i 13 and value of total is 6227020800
+2017-09-10 11:40:57,402 - DEBUG - the value of i 14 and value of total is 87178291200
+2017-09-10 11:40:57,402 - DEBUG - the value of i 15 and value of total is 1307674368000
+2017-09-10 11:40:57,402 - DEBUG - Return value is 1307674368000
+2017-09-10 11:40:57,432 - DEBUG - End of program
