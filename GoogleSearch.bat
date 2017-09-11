@@ -1,0 +1,1 @@
+@py.exe E:\Deeplearning\PythonPractice\GoogleSearch.py %*
