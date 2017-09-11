@@ -20,7 +20,7 @@ def saveImage(linkOfImage):
 
 
 # Link from which the data should be scraped
-link = "https://xkcd.com/1663"
+link = "https://xkcd.com"
 
 while True:
 
