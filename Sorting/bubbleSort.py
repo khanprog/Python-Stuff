@@ -36,6 +36,7 @@ def bubbleSort(myList):
 
 if __name__ == "__main__":
     print("=**********= Bubble Sort =**********=")
-    print()
     List = [1,12, 5, 7, 18, 11, 6, 12, 4, 17, 1]
+    print(List)
+    print("")
     print(bubbleSort(List))
